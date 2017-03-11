@@ -3,3 +3,8 @@ h1 {
   color: #339FFF;
   font-family: 'Rubik Mono One', sans-serif;
 }
+
+button {
+  padding: 0px 35px;
+  color: #51E433;
+}
