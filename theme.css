@@ -4,7 +4,7 @@ h1 {
   font-family: 'Rubik Mono One', sans-serif;
 }
 
-button {
+.button {
   padding: 0px 35px;
   color: #51E433;
 }
