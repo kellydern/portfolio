@@ -8,3 +8,7 @@ h1 {
   padding: 0px 35px;
   color: #51E433;
 }
+
+p, h2, h3 {
+  font-size: 40px;
+}
